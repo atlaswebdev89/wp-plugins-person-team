@@ -14,6 +14,7 @@ PHP, Wordpress API, Widget API, ООП, Js, Jquery, GIT, PhpStorm
 [personteam] - по умолчанию выводятся записи всех термином таксономии, время автоскролла 3000 мс (3 секунды), количество элементов в карусели - 2
 <hr>
 Параметры шотркода
+***
 [personteam team = "name_terms_tax1, name_terms_tax2", count_item = 3, time_autoscroll = 3000]
 team - термины таксономии
 count_item - количество элементов карусели
